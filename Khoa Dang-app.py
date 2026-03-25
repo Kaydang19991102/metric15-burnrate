@@ -310,9 +310,3 @@ kaleido
 
 ## Deployment Steps (10 minutes)
 ```
-1. Go to github.com → New repository → name it (e.g. metric15-burnrate) → Public
-2. Upload app.py and requirements.txt (drag and drop into the repo)
-3. Go to share.streamlit.io → sign in with GitHub → New App
-4. Select your repo → Branch: main → Main file: app.py → Deploy
-5. Wait ~2 minutes → copy the live URL
-6. Paste the URL into D2L submission comments
