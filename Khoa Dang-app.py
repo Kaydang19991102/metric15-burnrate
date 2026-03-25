@@ -296,17 +296,3 @@ else:
             f"{', '.join(REQUIRED_COLUMNS)}")
 ```
 
----
-
-## `requirements.txt`
-```
-streamlit
-pandas
-plotly
-kaleido
-```
-
----
-
-## Deployment Steps (10 minutes)
-```
